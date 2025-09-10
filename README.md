@@ -4,6 +4,10 @@
 
 Format Dokumen Skripsi khusus Program Studi Informatika Fakultas Teknik Universitas Mulawarman Samarinda yang telah diberikan fitur Daftar Isi, Bab-Subbab, Daftar Tabel-Gambar-Lampiran yang Otomatis.
 
+## Tentang Citation Style
+
+APA 7th Edition dibuat khusus untuk Skripsi Informatika Universitas Mulawarman; dengan memberikan "{city_publisher}: {publisher}" pada citation Buku.
+
 ## How-to-use / Cara Penggunaan
 ---
 
