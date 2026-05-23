@@ -22,7 +22,7 @@ APA 7th Edition yang original tidak memiliki keterangan kota dan nama publisher 
 
 ## How-to-use / Cara Penggunaan
 
-1. Download DOCX (template skripsi) & CSL (untuk Zotero/Mendeley) di [Release](https://github.com/fazrigading/skripsi-informatika-unmul/releases).
+1. Download DOCX (template skripsi) & CSL (untuk Zotero/Mendeley) pada tombol [Downloads di atas atau klik link ini (ZIP)](https://github.com/fazrigading/skripsi-informatika-unmul/releases/download/v1.0.0/format-skripsi-by-gading+csl.zip) bisa juga lewat [Releases (per-file)](https://github.com/fazrigading/skripsi-informatika-unmul/releases).
 2. Import CSL di Zotero: Option Edit (kiri atas) > Settings > Cite > Add from file
 3. Untuk menghubungkan Zotero dengan Word, (plugin Zotero-Word) akan terinstal otomatis saat Zotero diinstal.
 4. Jika Zotero-Word Plugin tidak terinstal, bisa cek link [https://www.zotero.org/support/word_processor_plugin_manual_installation](https://www.zotero.org/support/word_processor_plugin_manual_installation). 
