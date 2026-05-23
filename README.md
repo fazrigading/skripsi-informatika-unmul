@@ -2,8 +2,11 @@
 
 # Template Skripsi Informatika UNMUL 
 
-Format Dokumen Skripsi yang telah dimodifikasi dan diperbagus oleh [@fazrigading](https://github.com/fazrigading), khusus Program Studi S1 Informatika (Fakultas Teknik, Universitas Mulawarman, Samarinda) yang telah diberikan fitur Daftar Isi, Bab-Subbab, Daftar Tabel-Gambar-Lampiran yang otomatis.
-Dapat digunakan oleh mahasiswa dari universitas lain, dengan catatan mengikuti ketentuan penulisan program studi, fakultas, dan universitas masing-masing.
+Format Dokumen Skripsi yang telah dimodifikasi dan diperbagus oleh [@fazrigading](https://github.com/fazrigading), khusus Program Studi S1 Informatika (Fakultas Teknik, Universitas Mulawarman, Samarinda).
+
+Fitur Daftar Isi, Bab-Subbab, Daftar Tabel-Gambar-Lampiran **sudah otomatis**.
+
+**Boleh digunakan oleh mahasiswa dari universitas lain**, dengan catatan mengikuti ketentuan penulisan program studi, fakultas, dan universitas masing-masing.
 
 ## Tentang Citation Style
 
