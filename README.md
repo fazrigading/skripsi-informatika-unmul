@@ -1,4 +1,10 @@
-![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)
+<div align=center>
+  
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightred.svg?style=for-the-badge&color=orange)
+![GitHub Downloads](https://img.shields.io/github/downloads/fazrigading/skripsi-informatika-unmul/total?style=for-the-badge&logo=download&labelColor=blue&color=green)
+
+</div> 
+
 
 # Template Skripsi Informatika UNMUL 
 
