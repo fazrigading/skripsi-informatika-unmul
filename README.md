@@ -1,14 +1,30 @@
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)
 
-# Skripsi Informatika UNMUL 2.0
+# Template Skripsi Informatika UNMUL 
 
-Format Dokumen Skripsi khusus Program Studi Informatika Fakultas Teknik Universitas Mulawarman Samarinda yang telah diberikan fitur Daftar Isi, Bab-Subbab, Daftar Tabel-Gambar-Lampiran yang Otomatis.
+Format Dokumen Skripsi yang telah dimodifikasi dan diperbagus oleh [@fazrigading](https://github.com/fazrigading), khusus Program Studi S1 Informatika (Fakultas Teknik, Universitas Mulawarman, Samarinda) yang telah diberikan fitur Daftar Isi, Bab-Subbab, Daftar Tabel-Gambar-Lampiran yang otomatis.
+Dapat digunakan oleh mahasiswa dari universitas lain, dengan catatan mengikuti ketentuan penulisan program studi, fakultas, dan universitas masing-masing.
 
 ## Tentang Citation Style
 
 APA 7th Edition dibuat khusus untuk Skripsi Informatika Universitas Mulawarman; dengan memberikan "{city_publisher}: {publisher}" pada citation Buku.
 
+APA 7th Edition yang original tidak memiliki keterangan kota dan nama publisher pada referensi buku. Sedangkan, dosen-dosen meminta untuk diberikan keterangan publisher tersebut.
+
 ## How-to-use / Cara Penggunaan
+
+1. Download DOCX (template skripsi) & CSL (untuk Zotero/Mendeley) di [Release](https://github.com/fazrigading/skripsi-informatika-unmul/releases).
+2. Import CSL di Zotero: Option Edit (kiri atas) > Settings > Cite > Add from file
+3. Untuk menghubungkan Zotero dengan Word, (plugin Zotero-Word) akan terinstal otomatis saat Zotero diinstal.
+4. Jika Zotero-Word Plugin tidak terinstal, bisa cek link [https://www.zotero.org/support/word_processor_plugin_manual_installation](https://www.zotero.org/support/word_processor_plugin_manual_installation). 
+5. Cara Cite/Sitasi pakai Zotero di Word:
+- Arahkan cursor teks ke lokasi penempatan citation yang diinginkan
+- Klik tab "Zotero", Pilih "Add/Edit Citation"
+- Ketik nama, judul, atau tahun
+- Pilih dengan mouse dan klik / arrow keys dan enter
+
+Note: Jika referensi tidak ditemukan saat citation, maka mengganti koleksi/kumpulan referensi di Zotero, pilih dulu koleksi yang diinginkan di aplikasi Zotero di panel navigasi sebelah kiri, lalu lakukan buat citation di Word. 
+
 ---
 
 ## License
