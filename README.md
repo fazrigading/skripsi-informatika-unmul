@@ -7,7 +7,7 @@ Dapat digunakan oleh mahasiswa dari universitas lain, dengan catatan mengikuti k
 
 ## Tentang Citation Style
 
-APA 7th Edition dibuat khusus untuk Skripsi Informatika Universitas Mulawarman; dengan memberikan "{city_publisher}: {publisher}" pada citation Buku.
+APA 7th Edition dibuat khusus untuk Skripsi Informatika Universitas Mulawarman; dengan memberikan `"{city_publisher}: {publisher}"` pada citation Buku.
 
 APA 7th Edition yang original tidak memiliki keterangan kota dan nama publisher pada referensi buku. Sedangkan, dosen-dosen meminta untuk diberikan keterangan publisher tersebut.
 
