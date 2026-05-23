@@ -1,8 +1,8 @@
 <div align=center>
   
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightred.svg?style=for-the-badge&color=orange)
-![GitHub Downloads](https://img.shields.io/github/downloads/fazrigading/skripsi-informatika-unmul/total?style=for-the-badge&logo=download&labelColor=blue&color=green)
-
+[![GitHub Downloads](https://img.shields.io/github/downloads/fazrigading/skripsi-informatika-unmul/total?style=for-the-badge&logo=download&labelColor=blue&color=green)
+](https://github.com/fazrigading/skripsi-informatika-unmul/releases/download/v1.0.0/format-skripsi-by-gading+csl.zip)
 </div> 
 
 
